@@ -1,0 +1,2 @@
+# Kadoop
+Hadoop like architecture
